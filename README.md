@@ -1,4 +1,7 @@
 ## Hi there 👋
+# I'm glad you're here!
+
+We are a mobile software development company, based in Brazil.
 
 <!--
 **dubasoft/dubasoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
